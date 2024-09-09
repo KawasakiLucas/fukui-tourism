@@ -38,7 +38,7 @@ In progress...
 
 <h2 align="left">Project Structure</h2>
 
-In progress...
+Download all files and run: streamlit run app.py
 
 <h2 align="left">Tools</h2>
 
